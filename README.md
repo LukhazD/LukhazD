@@ -4,7 +4,7 @@ Mi nombre es Luis Diaz, estudiante de ingenieria de sistemas y desarrollador fro
 
 [![My Skills](https://skillicons.dev/icons?i=appwrite,git,gitlab,sass,figma&theme=light)](https://skillicons.dev)
 
-Actualmente estoy trabajando para [TecFin212](https://tecfin212.com/) particularmente en desarrollo de pruebas con Artillery y Playwright, sin embargo he participado en el desarrollo del modulo para venta de loterias [Triple Gordo](https://dev-triplegordo.pagando.tech/iframes/game) en la plataforma [Pagando Kiosco](https://pagando.tech/landing) y una serie de borradores y proyectos presentes en [mi portafolio](https://portfolio-three-lac-11.vercel.app/). 
+Trabajé para [TecFin212](https://tecfin212.com/) particularmente en desarrollo de pruebas con Artillery y Playwright, sin embargo he participado en el desarrollo del modulo para venta de loterias [Triple Gordo](https://dev-triplegordo.pagando.tech/iframes/game) en la plataforma [Pagando Kiosco](https://pagando.tech/landing).
 
 Siempre estoy buscando aprender nuevas tecnologías y practicas que puedan mejorar mi trabajo, por lo que he incursionado en areas como Scrum, siendo participe en tareas de planificacion y gestion, por lo que tambien he usado herramientas como Jira, trello y tengo experiencia con el marco de trabajo SCRUM.
 
@@ -16,7 +16,7 @@ My name is Luis Diaz, a systems engineering student and frontend developer and Q
 
 [![My Skills](https://skillicons.dev/icons?i=appwrite,git,gitlab,sass,figma&theme=light)](https://skillicons.dev)
 
-Currently, I am working for [TecFin212](https://tecfin212.com/), particularly in test development with Artillery and Playwright. However, I have also participated in the development of the [Triple Gordo](https://dev-triplegordo.pagando.tech/iframes/game) lottery sales module on the [Pagando Kiosco](https://pagando.tech/landing) platform, as well as a series of drafts and projects present in [my portfolio](https://portfolio-three-lac-11.vercel.app/).
+I have worked for [TecFin212](https://tecfin212.com/), particularly in test development with Artillery and Playwright. However, I have also participated in the development of the [Triple Gordo](https://dev-triplegordo.pagando.tech/iframes/game) lottery sales module on the [Pagando Kiosco](https://pagando.tech/landing) platform.
 
 I am always looking to learn new technologies and practices that can improve my work. As such, I have ventured into areas such as Scrum, participating in planning and management tasks. I have also used tools such as Jira and Trello and have experience with the SCRUM framework.
 
